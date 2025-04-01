@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          TODO_plugin_name: "Plugin Name"
+          discourse_video_transcoder: "Discourse Video Transcoder"
   js:
-    discourse_plugin_name:
+    discourse_video_transcoder:
       placeholder: placeholder

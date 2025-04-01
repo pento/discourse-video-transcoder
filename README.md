@@ -1,5 +1,7 @@
-# **Plugin Name** Plugin
+# **Discourse Video Transcoder** Plugin
 
 **Plugin Summary**
 
-For more information, please see: **url to meta topic**
+A quick experiment in using ffmpeg to transcode video files.
+
+Requires `ffmpeg` and `exiftool` to be installed on the server.
